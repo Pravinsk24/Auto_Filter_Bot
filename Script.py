@@ -311,7 +311,7 @@ Nᴀᴍᴇ : {}
 
 Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
     
-    CAPTION = """<b><a href="https://t.me/SilentXBotz">{file_name}</a></b>\n\n<b>⚜️ Powered By : <a https://t.me/SilentXBotz>[SilentXBotz]</a></b>"""
+    CAPTION = """<b><a href="https://t.me/+NNd7r9Ix2JE2MjQ1">{file_name}</a></b>\n\n<b>⚜️Powered By: [<a href="https://t.me/Moviesblaster_linkz">Movies Blaster</a>]</b>"""
 
     IMDB_TEMPLATE_TXT = """
 <b>🏷 Title</b>: <a href={url}>{title}</a>
@@ -332,11 +332,6 @@ Requested by : {message.from_user.mention}</b>"""
 🛠️ ʙᴜɪʟᴅ ꜱᴛᴀᴛᴜꜱ : <code>V4.2 [ ꜱᴛᴀʙʟᴇ ]</code>
 </b>"""
     LOGO = """
-  ____  _ _            _  __  ______        _       
- / ___|(_) | ___ _ __ | |_\ \/ / __ )  ___ | |_ ____
- \___ \| | |/ _ \ '_ \| __|\  /|  _ \ / _ \| __|_  /
-  ___) | | |  __/ | | | |_ /  \| |_) | (_) | |_ / / 
- |____/|_|_|\___|_| |_|\__/_/\_\____/ \___/ \__/___|
                                                                                                                                                                             
 𝙱𝙾𝚃 𝚆𝙾𝚁𝙺𝙸𝙽𝙶 𝙿𝚁𝙾𝙿𝙴𝚁𝙻𝚈...."""
 
